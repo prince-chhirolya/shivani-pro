@@ -193,7 +193,7 @@ export default function Home() {
                   {/* User message */}
                   <div className="flex flex-col items-end">
                     <div className="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-2xl rounded-tr-none py-3 px-4 max-w-[85%] shadow-lg">
-                      <p>Hi, I'm interested in learning more about your investment advisory services.</p>
+                      <p>Hi, I&apos;m interested in learning more about your investment advisory services.</p>
                     </div>
                     <span className="text-xs text-gray-400 mt-1">11:47 AM</span>
                   </div>
